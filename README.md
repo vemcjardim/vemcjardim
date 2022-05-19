@@ -1,7 +1,6 @@
 ## Hi there 👋
 
 ### - 🔭 I’m currently learning JavaScript
-### - 😄 Pronouns: he/his
 ### - ⚡ Fun fact: I have a YouTube Channel
 
 <br>
