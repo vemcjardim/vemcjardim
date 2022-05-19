@@ -4,6 +4,9 @@
 ### - 😄 Pronouns: he/his
 ### - ⚡ Fun fact: I have a YouTube Channel
 
+<br>
+<br>
+
 
 <div align="center">
   <a href="https://github.com/vemcjardim">
