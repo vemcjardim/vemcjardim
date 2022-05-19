@@ -1,8 +1,8 @@
-### Hi there 👋
+## Hi there 👋
 
-##### - 🔭 I’m currently learning JavaScript
-##### - 😄 Pronouns: he/his
-##### - ⚡ Fun fact: I have a YouTube Channel
+### - 🔭 I’m currently learning JavaScript
+### - 😄 Pronouns: he/his
+### - ⚡ Fun fact: I have a YouTube Channel
 
 
 <div align="center">
