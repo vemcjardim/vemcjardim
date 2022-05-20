@@ -1,7 +1,6 @@
 ## Hi there 👋
 
 ### - 🔭 I’m currently learning JavaScript
-### - ⚡ Fun fact: I have a YouTube Channel
 
 <br>
 <br>
